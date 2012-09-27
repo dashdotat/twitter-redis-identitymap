@@ -1,5 +1,7 @@
 twitter-redis-identitymap
 =========================
+[![Build Status](https://secure.travis-ci.org/kgfullerton/twitter-redis-identitymap.png?branch=master)][travis]
+[travis]: http://travis-ci.org/kgfullerton/twitter-redis-identitymap
 
 ###	Redis IdentityMap store for sferik/twitter gem
 
